@@ -3,6 +3,8 @@
 
 ## Установка
 
+Надо установить зависимости, указанные в `requirements.txt`.
+
 ```
 pip install -r requirements.txt 
 ```
